@@ -1,0 +1,1 @@
+Upload README.md and the complete assets/ folder to deepbisen-06/deepbisen-06, keeping the folder structure. Do not upload only the ZIP. preview.html is an optional local preview. No social URLs or statistics have been invented. Existing root-level images are retained for compatibility.

@@ -28,6 +28,8 @@
 ![Connect](./assets/connect.svg?v=1)
 
 - GitHub: [@deepbisen-06](https://github.com/deepbisen-06)
-- LinkedIn: **ADD_YOUR_EXACT_LINKEDIN_URL**
+- LinkedIn: [Deep Bisen](https://www.linkedin.com/in/deep-bisen-187176341/)
+
+📍 Nagpur, India · 🎓 Priyadarshini College of Engineering, Nagpur
 
 > Learning by building, documenting, testing and improving — one project at a time.
